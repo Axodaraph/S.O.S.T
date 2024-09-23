@@ -130,7 +130,7 @@ main {
     height: 200px;
     margin: 0 auto;
     margin-bottom: 50px;
-    background-image: url('./Assets/imgs/fondo_table_section.png');
+    background-image: url('./Assets/imgs/fondo_table_section.webp');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -313,7 +313,7 @@ main {
     width: 20px;
     height: 20px;
     margin-bottom: 10px;
-    background-image: url(./Assets/icon/clock\ 1.svg);
+    background-image: url("./Assets/icon/clock\ 1.svg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -323,7 +323,7 @@ main {
     width: 20px;
     height: 20px;
     margin-bottom: 10px;
-    background-image: url(./Assets/icon/clock\ 1.svg);
+    background-image: url("./Assets/icon/clock\ 1.svg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -333,7 +333,7 @@ main {
     width: 20px;
     height: 20px;
     margin-bottom: 10px;
-    background-image: url(./Assets/icon/eye\ 1.svg);
+    background-image: url("./Assets/icon/eye\ 1.svg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -343,7 +343,7 @@ main {
     width: 20px;
     height: 20px;
     margin-bottom: 10px;
-    background-image: url(./Assets/icon/dollar-sign\ 1.svg);
+    background-image: url("./Assets/icon/dollar-sign\ 1.svg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -353,7 +353,7 @@ main {
     width: 20px;
     height: 20px;
     margin-bottom: 10px;
-    background-image: url(./Assets/icon/check-circle\ 1.svg);
+    background-image: url("./Assets/icon/check-circle\ 1.svg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -376,7 +376,7 @@ main {
     width: 100%;
     min-width: 320px;
     height: 50vh;
-    background-image: url('./Assets/imgs/conocenos.png');
+    background-image: url('./Assets/imgs/conocenos.webp');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -501,7 +501,7 @@ main {
     vertical-align: text-bottom;
 }
 #solar-card{
-    background-image: url("./Assets/imgs/pixlr-image-generator-9eb829aa-00b4-4602-9ccd-66962b5b01c8.png");
+    background-image: url("./Assets/imgs/pixlr-image-generator-9eb829aa-00b4-4602-9ccd-66962b5b01c8.webp");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -513,7 +513,7 @@ main {
     background-size: cover;
 }
 #all-card{
-    background-image: url("./Assets/imgs/all_services.png");
+    background-image: url("./Assets/imgs/all_services.webp");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
