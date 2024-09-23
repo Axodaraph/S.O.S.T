@@ -130,7 +130,7 @@ main {
     height: 200px;
     margin: 0 auto;
     margin-bottom: 50px;
-    background-image: url('./Assets/imgs/fondo_table_section.webp');
+    background-image: url('./Assets/imgs/fondo_table_section.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -376,7 +376,7 @@ main {
     width: 100%;
     min-width: 320px;
     height: 50vh;
-    background-image: url('./Assets/imgs/conocenos.webp');
+    background-image: url('./Assets/imgs/conocenos.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
